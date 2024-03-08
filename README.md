@@ -13,11 +13,9 @@ ___
 
 ___
 
-Aufgabe: Zusammenstellung einer HTML-Website 
-Unsere Aufgabe bestand darin, eine komplexe HTML-Website zu erstellen, die verschiedene Aspekte der Webentwicklung umfasst. Dies erforderte eine schrittweise Herangehensweise, bei der wir uns durch eine Vielzahl von Kursen und Tutorials gearbeitet haben, um die notwendigen Fähigkeiten zu erwerben. Jeder Kurs behandelte spezifische Themen wie HTML-Grundlagen, CSS-Styling, die Verwendung externer Bibliotheken und vieles mehr. 
-Nach Abschluss der Kurse hatten wir das nötige Wissen und die praktische Erfahrung, um die Herausforderung anzunehmen, eine vollständige HTML-Website zu erstellen. Wir setzten unsere Kenntnisse zusammen, um das Layout, das Design und die Funktionalität der Webseite präzise umzusetzen. 
-Unsere Arbeit bestand darin, die verschiedenen Elemente und Techniken zu kombinieren, die wir in den einzelnen Kursen gelernt hatten, um eine ansprechende und funktionale Webseite zu gestalten. Diese Herangehensweise ermöglichte es uns, ein umfassendes Verständnis für die Webentwicklung zu entwickeln und gleichzeitig ein praktisches Projekt zu realisieren, das unsere Fähigkeiten unter Beweis stellte.
+Aufgabenstellung und Vorgaben:  Die Aufgabenstellung war klar formuliert: Alle Formatierungen sollten in einer externen CSS-Datei umgesetzt werden, wobei die Schriftart Vidaloka in orange verwendet werden sollte. Die Schriftgrößen wurden in rem angegeben, der Zeilenabstand betrug standardmäßig das 1,5-fache der Schriftgröße. Zusätzlich mussten die zur Verfügung gestellten Bilder in ein webtaugliches Format konvertiert und eingebunden werden.
 
+Im Rahmen des Projekts "Halloween" habe ich eine Übungsaufgabe bearbeitet, die den Nachbau einer Webseite zum Thema Halloween beinhaltete. Diese Aufgabe diente dazu, meine Fähigkeiten in HTML und CSS zu festigen, indem ich die vorgegebene Webseite anhand eines Screenshots originalgetreu nachbaute.
 ___
 
 ## ⁎/Inhaltliche Abdeckung:
@@ -53,3 +51,6 @@ ___
 ## ⁎/Reflektion: 
 
 Die Überarbeitung der HTML-Datei war eine interessante Erfahrung. Es war einfacher, Änderungen vorzunehmen, nachdem ich bereits mit dem Aufbau der Seite vertraut war. Die Struktur der Seite war gut organisiert, was die Bearbeitung erleichterte. Das Einbetten von Bildern und das Hinzufügen von Text war einfach und hat die visuelle Darstellung der Seite verbessert. Die Verwendung von Listen und Abschnitten half dabei, den Inhalt übersichtlich zu präsentieren. Die Einbindung von Links zu externen Ressourcen und Social-Media-Plattformen war eine weitere positive Ergänzung. Insgesamt war es eine positive Erfahrung, die meine Fähigkeiten im Umgang mit HTML weiter verbessert hat.
+
+## ⁎/Fazit und Erfolg des Projekts:
+Insgesamt war die Verwendung von Visual Studio entscheidend für den Erfolg der Aufgabe und ermöglichte mir ein effizientes und erfolgreiches Arbeiten. Die integrierten Tools halfen mir, mögliche Probleme zu erkennen und zu beheben, was zu einer reibungslosen Entwicklung und Optimierung der Website führte.
