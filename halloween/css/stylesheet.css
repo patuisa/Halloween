@@ -1,0 +1,46 @@
+/* Schriftarten */
+@font-face {
+    font-family: "vida";
+    src: url("../fonts/Vidaloka-Regular.ttf") format("truetype");
+}
+
+/* Globale Stile */
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #000000;
+    color: #bfbfbf;
+    font-size: 0.9rem;
+    line-height: 1.35rem;
+}
+
+/* Header */
+header img {
+    width: 100%;
+    position: cover; /* Position kann nicht als Attribut von img verwendet werden */
+}
+
+header h1 {
+    color: #ff9000;
+    font-size: 3rem;
+    line-height: 4.5rem;
+    font-family: "vida";
+}
+
+header p {
+    font-family: "Verdana"; /* "verdana" sollte "Verdana" sein */
+    font-size: 1rem;
+    line-height: 1.5rem;
+    font-weight: bold;
+}
+
+/* Abschnitt */
+section h2 {
+    color: #ff9000;
+    font-size: 1.5rem;
+    line-height: 2.25rem;
+    font-family: "vida";
+}
+
+section ul img {
+    width: 3rem;
+}
